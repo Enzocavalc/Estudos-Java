@@ -6,8 +6,8 @@ public class variaveis {
         boolean estudante = true;
 
         System.out.println("Seu nome é: " + nome );
-        System.out.println("Você tem: " + idade + "idade: " );
-        System.out.println("Você mede: " + altura + "de altura: " );
+        System.out.println("Você tem: " + idade + " idade: " );
+        System.out.println("Você mede: " + altura + " de altura: " );
         System.out.println("estudante: " + estudante );
 
     }
