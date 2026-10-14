@@ -8,6 +8,7 @@ public class DadosPessoais {
 
         System.out.println("Meu nome é " + nome + ", " + "moro na " + cidade +
          ". " + "Curso " + curso + " e estou no " + semestre + " semestre.");
+
     }
     
 }
